@@ -1,0 +1,11 @@
+{
+  "honeypot": {"enabled": false},
+  "fingerprint": {"enabled": false},
+  "aiSpam": {"enabled": false},
+  "dynamicCooldown": {"enabled": false},
+  "decoy": {"enabled": false},
+  "modReact": {"enabled": false},
+  "tokenGuard": {"enabled": false},
+  "geoRaid": {"enabled": false},
+  "modQueue": {"enabled": false}
+}
